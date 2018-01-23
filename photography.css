@@ -1,0 +1,56 @@
+body {
+    background-color: lightpink;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+nav p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: left;
+
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+}
+ul {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: red;
+}
+
+nav li {
+    float: left;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: pink;
+}
