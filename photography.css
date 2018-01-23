@@ -54,11 +54,10 @@ li a:hover {
     background-color: lightpink;
 }
 
-
 .wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-column-gap: 1px;
-    gird-row-gap: 1px;
+    grid-column-gap: 5px;
+
     background-color: lightpink;
 }
