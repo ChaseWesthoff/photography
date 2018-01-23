@@ -33,8 +33,8 @@ nav ul {
     background-color: red;
 }
 
-nav li {
-    float: left;
+ li {
+    float: center;
 }
 
 img {
@@ -43,7 +43,7 @@ img {
     margin-right: auto;
     width: 40%;
 }
-nav li a {
+li a {
     display: block;
     color: white;
     text-align: center;
